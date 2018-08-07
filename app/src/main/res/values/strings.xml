@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ITRexTestTask</string>
+    <string name="film_image_uri">FimImageUri</string>
+    <string name="film_name">FilmName</string>
+    <string name="film_name_eng">FilmNameEng</string>
+    <string name="film_premiere">FilmPremiere</string>
+    <string name="film_description">FilmDescription</string>
+    <string name="mytable">mytable</string>
+    <string name="premiere">Premiere: </string>
+    <string name="description">Description:</string>
+</resources>
